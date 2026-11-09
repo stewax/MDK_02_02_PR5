@@ -1,0 +1,15 @@
+# .NET / Visual Studio
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userprefs
+*.cache
+
+# Rider / VS Code
+.idea/
+.vscode/
+
+# Данные времени выполнения
+blacklist.txt
